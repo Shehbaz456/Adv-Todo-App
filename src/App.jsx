@@ -15,5 +15,4 @@ function App() {
     </TodoItemProvider>
   );
 }
-
 export default App;
